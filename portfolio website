@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" type="text/css" href="style1.css">
+    <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.1.0/fonts/remixicon.css" rel="stylesheet"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <a href="#" class="logo">My  <span> Portfolio</span></a>
+        <div class="bx bx-menu" id="menu-icon"></div>
+        <ul class="navlist">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#portfolio">Portfolio</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+        <div class="top-btnn">
+            <a href="#" class="h-btn">Contact me</a>
+        </div>
+    
+
+
+
+
+
+
+</header>
+    <section class="hero" id="home">
+        <div class="main-content">
+            <h4>Hi, There!</h4>
+            <h1>I'm <span>Mohammad Parvej</span></h1>
+            <p>"Transforming digital dreams into functional masterpieces where every code line tells a story of innovation and user delight."</p>
+            <div class="social">
+                <a href="#"><i class="ri-facebook-fill"></i></a>
+                <a href="#"><i class="ri-instagram-fill"></i></a>
+                <a href="#"><i class="ri-twitter-fill"></i></a>
+                <a href="#"><i class="ri-youtube-fill"></i></a>
+            </div>
+            <div class="main-btn">
+                <a href="#" class="btn">Hire me</a>
+                <a href="#" class="btn2">Download CV</a>
+        </div>
+        </div>
+        
+    </section>
+    <section class="about" id="about">
+        <div class="about-img">
+            <img src="/Users/mohammadparvej/Desktop/files/html/portfolio/about.png">
+        </div>
+        <div class="about-text">
+            <h2>I am web<span>Developer </span><br>& graphic Designer</h2>
+            <div class="exp-area">
+                <p class="exp">
+                    Experience: <span>1 year</span>
+                </p>
+                <p class="exp">
+                    speciality: <span>logo design, developer</span>
+                </p>
+                <p class="exp">
+                    Adress: <span>Chandigarh</span>
+                    
+                        </p>
+                      
+
+
+
+
+
+  <p class="exp">
+                            Email: <span>mparvej4142@gmail.com</span>
+                           
+                    </p>
+
+ <p class="exp">
+                        Phone: <span>7986463491</span>
+                </p>
+                <p class="exp">
+                    freelance: <span>Available</span>
+            </p>
+            </div>
+            <a href="#" class="btn">My projects</a>
+        </div>
+
+    </section>
+    <section class="services" id="services">
+        <div class="center-text">
+            <h2>my<span>Services</span></h2>
+
+        </div>
+        <div class="services-content">
+            <div class="box">
+                <img src="/Users/mohammadparvej/Desktop/files/html/portfolio/s1.svg">
+                <h3>UI/UX Design</h3>
+                  <p>As a UI/UX designer, I craft intuitive digital experiences, showcased 
+                    through a portfolio featuring impactful projects, detailed case studies, 
+                    and a clean, visually cohesive presentation</p> 
+                    <a href="#">Download Now
+                        <i class="ri-arrow-right-line"></i>
+
+                    </a> 
+            </div>
+            <div class="box">
+                <b class="kid" id="kid"><img src="/Users/mohammadparvej/Desktop/files/html/portfolio/s2.svg"></b>
+                <h3>Fulla stack Developer</h3>
+                
+
+
+
+
+
+
+
+
+  <p>As a full-stack developer, my portfolio exhibits a versatile skill set, featuring innovative web applications and projects,
+                     accompanied by comprehensive case studies, demonstrating proficiency in both front-end and back-end development.</p> 
+
+                    <a href="#">Download Now
+                        <i class="ri-arrow-right-line"></i>    
+                    </a> 
+
+            </div>
+            <div class="box">
+                <b class="brush" id="brush"><img src="/Users/mohammadparvej/Desktop/files/html/portfolio/s3.svg"></b>
+                <h3>Graphic designer</h3>
+                  <p>As a graphic designer, I showcase my creativity through a visually compelling portfolio 
+                    that highlights diverse projects, demonstrating a keen eye for design aesthetics and effective 
+                    communication.</p> 
+                    <a href="#">Download Now
+                        <i class="ri-arrow-right-line"></i>
+                        
+                    </a> 
+            </div>
+        </div>
+
+    </section>
+    <script src="js/script.js"></script>
+</body>
+</html>
